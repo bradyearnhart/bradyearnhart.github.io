@@ -1,8 +1,17 @@
+
 # main links links
 main:
-  - title: "Perfomances"
+  - title: "Publications"
     url: /publications/
 
-  - title: "Lyrics"
+  - title: "Talks"
     url: /talks/    
 
+  - title: "Teaching"
+    url: /teaching/    
+        
+  - title: "Blog Posts"
+    url: /year-archive/
+    
+  - title: "CV"
+    url: /cv/
